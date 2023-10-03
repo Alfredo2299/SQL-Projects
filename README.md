@@ -1,2 +1,2 @@
 # SQL-Projects
-In questa sezione sono presenti i dataset sui quali ho svolto delle analisi statistiche o data cleaning attraverso SQL
+This section contains the datasets on which I have carried out statistical analyzes or data cleaning using SQL
